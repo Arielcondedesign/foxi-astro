@@ -1,12 +1,12 @@
 [
 	{
 		"header": {
-			"title": "Basic",
+			"title": "Green Legacy Pack",
 			"subtitle": "Ideal for individual developers.",
-			"currency": "$",
-			"price": "19",
+			"currency": "£",
+			"price": "92",
 			"priceLabel": "month, billed anually",
-			"priceMontly": "25",
+			"priceMontly": "133",
 			"priceLabelMontly": "month",
 			"buttonName": "Try for free",
 			"buttonLink": "/"
@@ -22,13 +22,13 @@
 			"buttonName": "See all features",
 			"buttonLink": "/"
 		},
-		"type": "basic"
+		"type": "featured"
 	},
 	{
 		"header": {
 			"title": "Team",
 			"subtitle": "Ideal for small teams",
-			"currency": "$",
+			"currency": "£",
 			"price": "29",
 			"priceLabel": "month, billed anually",
 			"priceMontly": "35",
@@ -48,13 +48,13 @@
 			"buttonName": "See all features",
 			"buttonLink": "/"
 		},
-		"type": "featured"
+		"type": "basic"
 	},
 	{
 		"header": {
 			"title": "Enterprise",
 			"subtitle": "Ideal for companies",
-			"currency": "$",
+			"currency": "£",
 			"price": "49",
 			"priceLabel": "month, billed anually",
 			"priceMontly": "65",
